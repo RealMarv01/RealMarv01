@@ -18,6 +18,8 @@
 ![Marv's GitHub stats](https://github-readme-stats.vercel.app/api?username=XxM4rvxX&show_icons=true&theme=tokyonight)
 
 <img alt="Marv's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxM4rvxX&layout=compact&theme=tokyonight" /><br> 
+
+![Marv's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=XxM4rvxX&theme=tokyonight)<br>
 ---
 
 ### 🖥OS
